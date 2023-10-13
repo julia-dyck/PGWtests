@@ -1,2 +1,2 @@
 # PGWtests
-Functions to perform Weibull tests
+Functions to perform Weibull tests.
