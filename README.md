@@ -6,5 +6,5 @@ _Odile Sauzet, Julia Dyck, and Victoria Cornelius_
 preprint, 2023.
 
 
-currently available as preprint [here on arXiv](https://arxiv.org/abs/2310.20573).
+currently available as preprint [here](https://arxiv.org/abs/2310.20573) on arXiv.
 
