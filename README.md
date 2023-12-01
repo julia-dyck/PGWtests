@@ -8,3 +8,6 @@ preprint, 2023.
 
 currently available as preprint [here](https://arxiv.org/abs/2310.20573) on arXiv.
 
+To make the code more FAIR, we have mirrored the repo on the [OSF](https://osf.io/srkgx/)
+
+
